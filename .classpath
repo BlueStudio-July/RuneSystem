@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/qiyue/Listener/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/我的文件/插件测试服/1.7.2/plugins/Vault-1.6.6.jar"/>
+	<classpathentry kind="lib" path="D:/我的文件/插件测试服/1.7.2/plugins/StyleLore.jar"/>
+	<classpathentry kind="lib" path="D:/我的文件/插件测试服/1.7.2/plugins/PlaceholderAPI-2.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/我的文件/插件测试服/1.7.2/1.7.2spigot.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

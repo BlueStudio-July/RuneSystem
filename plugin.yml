@@ -1,0 +1,8 @@
+name: RuneSystem
+main: com.qiyue.RuneSystem.Main
+version: 3.0.0
+author: qiyue
+depend: [StyleLore]
+softdepend: [PlaceholderAPI]
+commands:
+  rune:
